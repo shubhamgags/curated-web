@@ -1,2 +1,2 @@
 # curated-web
-This repo contains intresting links of articles, websites, resources related to tech
+This repo contains interesting links of articles, websites and resources related to tech.
